@@ -1,0 +1,6 @@
+C:\Users\ELEONORA\Desktop\homework\Homework\task02\bin\Debug\task02.exe.config
+C:\Users\ELEONORA\Desktop\homework\Homework\task02\bin\Debug\task02.exe
+C:\Users\ELEONORA\Desktop\homework\Homework\task02\bin\Debug\task02.pdb
+C:\Users\ELEONORA\Desktop\homework\Homework\task02\obj\Debug\task02.csproj.CoreCompileInputs.cache
+C:\Users\ELEONORA\Desktop\homework\Homework\task02\obj\Debug\task02.exe
+C:\Users\ELEONORA\Desktop\homework\Homework\task02\obj\Debug\task02.pdb
